@@ -2467,7 +2467,11 @@
 			}
 
 			.image.main img {
-				width: 100%;
+				margin-left: auto;
+				margin-right: auto;
+				width: 25%;
+				z-index: 1;
+
 			}
 
 		@media screen and (max-width: 736px) {
